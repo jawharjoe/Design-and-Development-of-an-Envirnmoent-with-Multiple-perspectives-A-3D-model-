@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496746857 source:/home/mohinish/Desktop/CGPRO/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
